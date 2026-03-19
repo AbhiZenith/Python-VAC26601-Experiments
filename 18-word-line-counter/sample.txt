@@ -1,0 +1,4 @@
+Python is a very powerful programming language.
+It is used for web development and data science.
+Learning file handling is essential for every coder.
+Let us count these thirty words.
