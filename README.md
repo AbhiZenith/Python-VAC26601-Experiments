@@ -1,4 +1,4 @@
-# Python Practice Programs (VAC 26601)
+# Python Practice Programs
 
 A collection of Python programs covering core programming concepts, problem-solving techniques, and basic system implementations.
 
